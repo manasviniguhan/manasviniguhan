@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasvini</h1>
-<h3 align="center">A passionate full-stack developer having experience in building Web applications with Reactjs, Nodejs and some other cool libraries and frameworks. At the same time, I'm a crazy full-stack developer who wants to explore different tech stacks.</h3>
+<h3 align="center">A passionate front-end developer having experience in building Web applications with Reactjs, Nodejs and some other cool libraries and frameworks. At the same time, I'm a crazy front-end developer who wants to explore different tech stacks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasviniguhan&label=Profile%20views&color=0e75b6&style=flat" alt="manasviniguhan" /> </p>
 
